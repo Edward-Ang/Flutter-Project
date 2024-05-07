@@ -1,16 +1,6 @@
-# split_bill_app
+# Split Bill App
 
-A new Flutter project.
+Preview:
+![image](https://github.com/Edward-Ang/Flutter-Project/assets/64727838/f2f668e9-260b-4dbd-9c90-7cc028f9f051) 
+![image](https://github.com/Edward-Ang/Flutter-Project/assets/64727838/a42994e4-e572-4c66-93c2-04edaca0b4d1)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
